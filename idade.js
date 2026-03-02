@@ -1,4 +1,6 @@
 let idade = 16;
-const anoNascimento = 2009;
+let dataNascimento = 2009;
 
-console.log("A minhaa idade é." + idade);
+//console.log("Minha idade é: "+ idade);
+//console.log("Meu ano e nascimento é "+ dataNascimento)
+console.log(`Minha idade é: ${idade}e meu ano de nascimento é:$ {dataNascimento}`);
